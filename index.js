@@ -78,7 +78,6 @@ function wagesEarnedOnDate(emp,date){
   let owed=0;
  owed= hoursWorkedOnDate(emp,date)* emp["payPerHour"];
   return owed;
-  
 }
 
 function allWagesFor(employee)
