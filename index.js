@@ -89,7 +89,6 @@ function allWagesFor(employee)
   },0);
 }
 
-
 let cRecord = createEmployeeRecord(["Julius", "Caesar", "General", 27])
         // Earns 324
   let updatedBpRecord = createTimeInEvent(cRecord, "0044-03-14 0900")
